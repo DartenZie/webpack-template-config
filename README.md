@@ -1,1 +1,1 @@
-# webpack-template-config
+# Template Driven Webpack config
